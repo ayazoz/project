@@ -1,0 +1,5 @@
+C:\Users\safiy\Desktop\stajProje\Solution1\Demo.Helper\bin\Debug\Demo.Helper.dll
+C:\Users\safiy\Desktop\stajProje\Solution1\Demo.Helper\bin\Debug\Demo.Helper.pdb
+C:\Users\safiy\Desktop\stajProje\Solution1\Demo.Helper\obj\Debug\Demo.Helper.csprojResolveAssemblyReference.cache
+C:\Users\safiy\Desktop\stajProje\Solution1\Demo.Helper\obj\Debug\Demo.Helper.dll
+C:\Users\safiy\Desktop\stajProje\Solution1\Demo.Helper\obj\Debug\Demo.Helper.pdb

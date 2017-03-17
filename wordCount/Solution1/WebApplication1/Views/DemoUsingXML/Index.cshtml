@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using Demo.Helper.External.Models;
+@model IEnumerable<Demo.Helper.External.Models.Words>
+
+<h2>LIST OF WORDS AND COUNT</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>WORD</th>
+       <th>COUNT</th>
+     
+       
+    </tr>
+
+ @{var count = 0; }
+
+     @foreach (var item in Model)
+      {
+        <tr>
+            @if (count < 10)
+            {
+             
+                <td>
+                    @Html.DisplayFor(modelItem => item.word)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.count)
+                </td>
+
+                count += 1;
+            }
+        </tr>
+     }
+
+    }
+
+</table>  

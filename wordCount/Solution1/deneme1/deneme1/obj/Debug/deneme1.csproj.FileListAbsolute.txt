@@ -1,0 +1,12 @@
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\obj\Debug\deneme1.exe
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\obj\Debug\deneme1.pdb
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\snn-3\Desktop\stajProje\deneme1\deneme1\obj\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\obj\Debug\deneme1.exe
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\obj\Debug\deneme1.pdb
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\obj\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\safiy\Desktop\stajProje\Solution1\deneme1\deneme1\bin\Debug\deneme1.pdb
